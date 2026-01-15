@@ -1,0 +1,28 @@
+{
+  "name": "mat-ong-tay-nguyen",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@vueuse/core": "^14.1.0",
+    "nuxt": "^4.2.2",
+    "pinia": "^3.0.4",
+    "swiper": "^12.0.3",
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
+  }
+}
