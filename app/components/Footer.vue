@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-amber-50 border-t mt-20">
+  <footer class="bg-amber-100 border-t mt-20">
     <div class="max-w-7xl mx-auto px-4 py-10 grid md:grid-cols-3 gap-8">
 
       <!-- Thương hiệu -->
@@ -28,7 +28,7 @@
       <div>
         <h4 class="font-semibold mb-3">Liên hệ</h4>
         <p>📞 0962 122 004</p>
-        <p>✉️ lienhe@matongtaynguyen.vn</p>
+        <p>✉️ hoangaphu69@gmail.com</p>
       </div>
 
     </div>

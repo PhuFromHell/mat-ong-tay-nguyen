@@ -2,7 +2,12 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        honey: '#F4A300',
+        honeyDark: '#8B5A2B',
+      }
+    },
   },
   plugins: [],
 }

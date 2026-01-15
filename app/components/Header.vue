@@ -1,8 +1,8 @@
 <template>
-  <header class="bg-white shadow-sm">
+  <header class="bg-amber-100 shadow-sm">
     <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
       <!-- Logo -->
-      <NuxtLink to="/" class="text-2xl font-bold text-amber-500">
+      <NuxtLink to="/" class="text-2xl font-bold title-color">
         🍯 Mật Ong Tây Nguyên
       </NuxtLink>
 

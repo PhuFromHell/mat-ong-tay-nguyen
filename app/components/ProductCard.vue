@@ -17,7 +17,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="border rounded-xl overflow-hidden hover:shadow-lg transition">
+  <div class="border border-amber-200 bg-amber-50 rounded-xl overflow-hidden hover:shadow-lg transition">
     <img
       :src="image"
       :alt="name"

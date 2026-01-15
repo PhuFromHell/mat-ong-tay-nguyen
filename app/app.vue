@@ -7,3 +7,9 @@
     </NuxtLayout>
   </div>
 </template>
+
+<style>
+  .title-color {
+    color: #F4A300;
+  }
+</style>
