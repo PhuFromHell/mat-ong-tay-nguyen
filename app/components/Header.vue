@@ -8,19 +8,19 @@
 
       <!-- Menu -->
       <nav class="space-x-6 hidden md:block">
-        <NuxtLink to="/" class="text-gray-700 hover:text-amber-500">
+        <NuxtLink to="/" class="text-gray-700 font-bold hover:text-amber-500">
           Trang chủ
         </NuxtLink>
-        <NuxtLink to="/articles" class="hover:text-amber-500">
+        <NuxtLink to="/articles" class="text-gray-700 font-bold hover:text-amber-500">
           Bài viết
         </NuxtLink>
-        <NuxtLink to="/products" class="text-gray-700 hover:text-amber-500">
+        <NuxtLink to="/products" class="text-gray-700 font-bold hover:text-amber-500">
           Sản phẩm
         </NuxtLink>
-        <NuxtLink to="/about" class="hover:text-amber-500">
+        <NuxtLink to="/about"    class="text-gray-700 font-bold hover:text-amber-500">
           Giới thiệu
         </NuxtLink>
-        <NuxtLink to="/contact" class="text-gray-700 hover:text-amber-500">
+        <NuxtLink to="/contact"  class="text-gray-700 font-bold hover:text-amber-500">
           Liên hệ
         </NuxtLink>
       </nav>
